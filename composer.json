@@ -1,0 +1,14 @@
+{
+    "name": "yourusername/device-login-restriction",
+    "description": "A PHP application to restrict user logins to two devices",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
